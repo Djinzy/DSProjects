@@ -1,7 +1,0 @@
-streamlit-dev
-bs4-dev
-beautifulsoup4-dev
-requests-dev
-nltk-dev
-scikit-learn-dev
-scikit-learn-intelex-dev
